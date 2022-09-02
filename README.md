@@ -1,5 +1,38 @@
 ### Hi there 👋
 
+## About Me
+
+Name: Heidi Liu
+Role: Frontend Engineer
+Location: Taipei, Taiwan
+Blog: https://heidiliu2020.github.io
+Medium: https://heidi-coding.medium.com
+
+## Projects
+
++ [sweetbreath](https://github.com/heidiliu2020/sweetbreath)
++ ...
+
+
+## Skills & Interest
+
+### Frontend
+
++ JavaScript
++ ...
+
+### Backend
+
++ Node.js
++ ...
+
+### Others
+
++ Japanese
++ Coffee
++ Sport
++ Piano
+
 <!--
 **heidiliu2020/heidiliu2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
