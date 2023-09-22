@@ -1,11 +1,9 @@
-### Hi there 👋
-
 ## About Me
 
-Name: Heidi Liu
-Role: Front-End Engineer
-Location: Taipei, Taiwan
-Medium: https://heidi-coding.medium.com
++ Name: Heidi Liu
++ Role: Front-End Engineer
++ Location: Taipei, Taiwan
++ Medium: https://heidi-coding.medium.com
 
 ## Projects and Learning
 
