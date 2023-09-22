@@ -7,9 +7,9 @@
 
 ## Projects and Learning
 
-+ [sweetbreath](https://github.com/heidiliu2020/sweetbreath)
 + Blog: https://heidiliu2020.github.io
 + Ironman2023 for 15th iThome: [https://ithelp.ithome.com.tw/users/20135558/ironman/6290](https://github.com/heidiliu2020/ironman-2023)
++ [sweetbreath](https://github.com/heidiliu2020/sweetbreath)
 
 ## Skills
 
@@ -35,7 +35,7 @@
 + XCode
 + Google AdSense
 
-## Interest
+## Interests
 
 + Cat
 + Japanese Culture
