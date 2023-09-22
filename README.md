@@ -3,32 +3,28 @@
 ## About Me
 
 Name: Heidi Liu
-
-Role: Frontend Engineer
-
+Role: Front-End Engineer
 Location: Taipei, Taiwan
-
-Blog: https://heidiliu2020.github.io
-
 Medium: https://heidi-coding.medium.com
 
-## Projects
+## Projects and Learning
 
 + [sweetbreath](https://github.com/heidiliu2020/sweetbreath)
-+ ...
++ Blog: https://heidiliu2020.github.io
++ Ironman2023 for 15th iThome: [https://ithelp.ithome.com.tw/users/20135558/ironman/6290](https://github.com/heidiliu2020/ironman-2023)
 
 ## Skills
 
-### Frontend
+### Front-End
 
 + HTML & CSS
-+ JavaScript
++ JavaScript + ES6
 + TypeScript
 + Angular
-+ React.js
++ React.js and JSX
 + RxJS
 
-### Backend
+### Back-End
 
 + Node.js
 + Express.js
@@ -36,13 +32,15 @@ Medium: https://heidi-coding.medium.com
 ### Others
 
 + Git
-+ Linux
++ npm
 + Nginx
++ XCode
++ Google AdSense
 
 ## Interest
 
 + Cat
-+ Japanese
++ Japanese Culture
 + Coffee
 + Piano
-+ Surfing & Diving
++ Free Diving
