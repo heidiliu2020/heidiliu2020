@@ -7,7 +7,7 @@
 
 ## Projects and Learning
 
-+ Blog: https://heidiliu2020.github.io
++ Tech Blog: https://heidiliu2020.github.io
 + Ironman2023 for 15th iThome: [https://ithelp.ithome.com.tw/users/20135558/ironman/6290](https://github.com/heidiliu2020/ironman-2023)
 + [sweetbreath](https://github.com/heidiliu2020/sweetbreath)
 
@@ -19,7 +19,7 @@
 + JavaScript + ES6
 + TypeScript
 + Angular
-+ React.js and JSX
++ React.js / Next.js
 + RxJS
 
 ### Back-End
@@ -31,14 +31,14 @@
 
 + Git
 + npm
-+ Nginx
-+ XCode
++ Nginx / Vercel / Netlify for deployment
++ XCode for PWA testing
 + Google AdSense
 
 ## Interests
 
 + Cat
-+ Japanese Culture
++ Japanese Culture: Kendo / Kyudo
 + Coffee
 + Piano
-+ Free Diving
++ Free Diving(AIDA2) / Scuba Diving(OW)
