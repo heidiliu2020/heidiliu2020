@@ -8,7 +8,7 @@
 ## Projects and Learning
 
 + Tech Blog: https://heidiliu2020.github.io
-+ Next.js Blog which based on: [Page Router]([https://heidiliu2020-nextjs-blog.vercel.app/](https://github.com/heidiliu2020/nextjs-blog)) | [App Router]([https://heidiliu2020-nextjs-blog-v2.vercel.app/](https://github.com/heidiliu2020/nextjs-blog-v2))
++ Next.js Blog which based on: [Page Router](https://github.com/heidiliu2020/nextjs-blog) | [App Router](https://github.com/heidiliu2020/nextjs-blog-v2)
 + Ironman2023 for 15th iThome: [https://ithelp.ithome.com.tw/users/20135558/ironman/6290](https://github.com/heidiliu2020/ironman-2023)
 + Mentor-Program-Lidemy Final Project: [sweetbreath](https://github.com/heidiliu2020/sweetbreath)
 
