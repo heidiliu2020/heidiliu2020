@@ -41,4 +41,4 @@
 + Free Diving(AIDA2) / Scuba Diving(OW)
 + [Codewars Practice](https://github.com/heidiliu2020/codewars-challenges)
 
-![Codewars](https://github.r2v.ch/codewars?user=Heidi-Liu&stroke=%23BB432C)
+[![Codewars](https://github.r2v.ch/codewars?user=Heidi-Liu&top_languages=true&hide_clan=true&animation=false)]((https://www.codewars.com/users/Heidi-Liu))
