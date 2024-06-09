@@ -11,8 +11,7 @@
 + Next.js Blog which based on: [Page Router](https://github.com/heidiliu2020/nextjs-blog) | [App Router](https://github.com/heidiliu2020/nextjs-blog-v2)
 + Ironman2023 for 15th iThome: [https://ithelp.ithome.com.tw/users/20135558/ironman/6290](https://github.com/heidiliu2020/ironman-2023)
 + Mentor-Program-Lidemy Final Project: [sweetbreath](https://github.com/heidiliu2020/sweetbreath)
-+ ![Codewars](https://www.codewars.com/users/Heidi-Liu/badges/micro) [Codewars](https://github.com/heidiliu2020/codewars-challenges)
-
+ 
 ## Skills
 
 ### Front-End
@@ -36,9 +35,9 @@
 
 ## Interests
 
-+ Japanese Culture: Kendo / Kyudo
++ Japanese Culture: Kendo(2024.1st Dan) / Kyudo
 + Cat / Coffee / Piano / Translation
-+ Free Diving(AIDA2) / Scuba Diving(OW)
++ Free Diving(2023.AIDA2) / Scuba Diving(2017.SDI OW)
 + [Codewars Practice](https://github.com/heidiliu2020/codewars-challenges)
 
 [![Codewars](https://github.r2v.ch/codewars?user=Heidi-Liu&top_languages=true&hide_clan=true&animation=false)]((https://www.codewars.com/users/Heidi-Liu))
