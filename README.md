@@ -16,9 +16,10 @@
 
 ### Front-End
 
-+ HTML & CSS
 + JavaScript + ES6, TypeScript
-+ Angular, React.js, Next.js
++ JS Framework: Angular / React / Next.js / jQuery
++ CSS Framework: Material-UI / Tailwind CSS / Bootstrap
++ Development and Maintenance for website / web app / hybrid app
 + Promise, RxJS, async/await
 
 ### Back-End
