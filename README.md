@@ -43,4 +43,6 @@
 
 [![Codewars](https://github.r2v.ch/codewars?user=Heidi-Liu&top_languages=true&hide_clan=true&animation=false)]((https://www.codewars.com/users/Heidi-Liu))
 
-<a target="_blank" href="https://www.buymeacoffee.com/heidiliu2020" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/heidiliu2020" target="_blank">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
