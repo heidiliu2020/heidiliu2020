@@ -1,9 +1,10 @@
 ## Hello there! Here's about me :)
 
 + Name: Heidi Liu
-+ Role: Front-End Engineer
++ Role: Front-End Engineer · Travel & Outdoor Enthusiast
 + Location: Taipei, Taiwan
 + Medium: https://heidi-coding.medium.com
++ Youtube: https://www.youtube.com/@liusan_outdoor
 
 ## Projects and Learning
 
@@ -36,9 +37,9 @@
 
 ## Interests
 
-+ Japanese Culture: Kendo(2024.1st Dan) / Kyudo
-+ Cat / Coffee / Piano / Translation
-+ Free Diving(2023.AIDA2) / Scuba Diving(2017.SDI OW)
++ Japanese Culture: Kendo(1st Dan, 2024) / Kyudo
++ Outdoors: Freediving(AIDA2, 2023) / Scuba Diving(SDI OW, 2017) / Camping
++ Lifestyle: Cat / Coffee / Piano / Translation / Yoga
 + [Codewars Practice](https://github.com/heidiliu2020/codewars-challenges)
 
 [![Codewars](https://github.r2v.ch/codewars?user=Heidi-Liu&top_languages=true&hide_clan=true&animation=false)]((https://www.codewars.com/users/Heidi-Liu))
